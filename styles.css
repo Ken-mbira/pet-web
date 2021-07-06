@@ -1,0 +1,23 @@
+h1{
+ font-family:'Courier New', Courier, monospace;
+ text-align:center;  
+ color:whitesmoke; 
+}
+ul{
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+    text-align:center;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:url("image\ 1.png");
+    background-repeat:no-repeat;
+    
+
+}
+li{
+    display:inline;
+}
+
